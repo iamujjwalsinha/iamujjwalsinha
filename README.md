@@ -3,13 +3,12 @@
 ### Hi there, I'm Ujjwal Sinha [website] 👋
 ![](https://komarev.com/ghpvc/?username=iamujjwalsinha)
 
-<!-- [![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https://swapnilsoni.xyz)](https://swapnilsoni.xyz) -->
-<!-- [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com) -->
+<!-- [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://play.google.com/store/apps/details?id=com.caffeinecoders.swadeshibazaar&hl=en_GB&gl=US)](https://play.google.com/store/apps/details?id=com.caffeinecoders.swadeshibazaar&hl=en_GB&gl=US) -->
 
 
 ## I'm a Full Stack Developer!
 
-- 🔭 ~~I’m currently working on a [Gaming Platform](https://gamerary.com)!~~ (Abandoned Due to different plans for now)
+- 🔭 ~~I’m currently working on a [Swadeshi Bazaar Guide](https://gamerary.com)!~~ (Abandoned Due to different plans for now)
 - 🥅 2021 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
 - ⚡ Hobbies: I love reverse engineering websites and building Custom ROMs!
 
