@@ -15,7 +15,7 @@
 
 ## My Articles
 
-- 🛺 [Anonymous Posting on Facebook using Google Forms, Telegram and Facebook Graph API](https://swapnilsoni1999.medium.com/anonymous-posting-on-facebook-using-graph-api-telegram-bot-api-and-google-apps-script-for-google-45b4b586b682)
+- 🛺 [Case study: Swadeshi Bazaar Guide](https://iamujjwalsinha.medium.com/case-study-swadeshi-bazaar-guide-7b0a4747fafa)
 
 ### Connect with me:
 
