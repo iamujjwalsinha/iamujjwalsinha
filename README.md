@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="JAVA" width="26px" src="![image](https://user-images.githubusercontent.com/26160762/147402848-2a48f1fe-f245-4ec6-b396-0e2b6987251a.png)" />
+<img align="left" alt="JAVA" width="26px" src="![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png)" />
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
