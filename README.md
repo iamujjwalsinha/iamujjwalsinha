@@ -62,9 +62,7 @@
 
 ### Github Stats
 
-<img alt="Swapnil Soni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SwapnilSoni1999&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-<br />
-<img alt="Swapnil Soni's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=SwapnilSoni1999&theme=dark" />
+<img alt="Ujjwal Sinha's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=SwapnilSoni1999&theme=dark" />
 
 
 [twitter]: https://twitter.com/iamujjwalsinha
