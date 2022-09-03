@@ -6,10 +6,9 @@
 <!-- [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://play.google.com/store/apps/details?id=com.caffeinecoders.swadeshibazaar&hl=en_GB&gl=US)](https://play.google.com/store/apps/details?id=com.caffeinecoders.swadeshibazaar&hl=en_GB&gl=US) -->
 
 
-## I'm a Full Stack Developer!
+## I'm a Serverless Developer!
 
-- 🔭 ~~I’m currently working on a [Swadeshi Bazaar Guide](https://iamujjwalsinha.medium.com/case-study-swadeshi-bazaar-guide-7b0a4747fafa)!~~ (Abandoned Due to different plans for now)
-- 🥅 2021 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
+- 🥅 2022 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
 - ⚡ I love using modern technologies to build stuff that looks great!
 - 📫 How to reach me: iamujjwalsinha@gmail.com
 
