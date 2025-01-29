@@ -8,7 +8,7 @@
 
 ## I'm a Serverless Developer!
 
-- 🥅 2022 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
+- 🥅 2025 Goals: Contribute more to Open Source projects and try to learn more stuff everyday!
 - ⚡ I love using modern technologies to build stuff that looks great!
 - 📫 How to reach me: iamujjwalsinha@gmail.com
 
